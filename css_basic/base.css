@@ -1,0 +1,6 @@
+/* base.css */
+header, main, footer {
+    padding: 10px;
+    border: 1px solid #000;
+    margin: 10px;
+}
